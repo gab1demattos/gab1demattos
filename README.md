@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriela Mattos</h1>
 <h3 align="center">An Informatics and Computing Engineering student at FEUP</h3>
 
+- 🔭 I’m currently working on <a href="https://github.com/gab1demattos/dear-you.git" target="blank">Dear you</a>
+- 🌱 I’m currently learning Artificial Inteligence and Web Development
 - 📫 How to reach me **gabydemattos@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
