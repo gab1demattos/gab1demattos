@@ -6,10 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D8B4FE&center=true&vCenter=true&width=435&lines=MEIC+Student+@+FEUP+✨;Interested+in+Computer+Networks+🖥️;" alt="Typing SVG" />
   </a>
 
-  <br>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <br>
-
 </div>
 
 <div align="center">
@@ -24,9 +20,7 @@
     </div>
 </div>
 <div align="center">
-  <br>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <br>
+  
   <h3>✧ Connect with Me ✧</h3>
   
   <p>
@@ -35,10 +29,6 @@
     </a>
   </p>
   </div>
-
-<br>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
   
 <div>
 <h3 align="center"> ▹ Languages and Tools ◃ </h3>
